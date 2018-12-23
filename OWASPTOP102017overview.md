@@ -24,7 +24,7 @@ According to Andrew van der Stock (Pluralsight, 2018), even though injections ar
 OWASP (2017), Top 10-2017 A1-Injection, url: 
 https://www.owasp.org/index.php/Top_10-2017_A1-Injection
 
-Muscat I. (April 2017)., What are Injection Attacks?, 
+Muscat I. (April 2017). What are Injection Attacks?, 
 url : https://www.acunetix.com/blog/articles/injection-attacks/
 
 van der Stock, A. (April 2018). Play by play: OWASP Top 10 2017, Pluralsight. url: https://app.pluralsight.com/library/courses/play-by-play-owasp-top-ten-2017 
