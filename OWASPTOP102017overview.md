@@ -162,7 +162,7 @@ url: https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration
 Application Seucrity Series, (July 2018). Security Misconfiguration, a conscious element of OWASP Top 10, the risks and solutions, url: https://www.htbridge.com/blog/OWASP-security-misconfiguration.html
 
 
-## Number 7 : Top 10-2017 A7-Cross-Site Scripting (XSS)
+## Number 7 : Cross-Site Scripting (XSS)
 
 ### What is it ?
 
