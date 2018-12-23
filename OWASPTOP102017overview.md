@@ -116,7 +116,7 @@ Access control, sometimes called authorization, is how a web application grants 
 
 According to OWASP (2017), even though SAST and DAST tools wan detect the absence of access control, they cannot verify if it is functional when present. Access control is primarily detectable using manual means. However, it is possibly discoverable through automation for the absence of such in certain frameworks. 
 
-Through which weaknesses ?
+### Through which weaknesses ?
 
 “Access control weaknesses are common due to the lack of automated detection, and lack of effective functional testing by application developers.” (OWASP, 2017).
 
@@ -135,7 +135,7 @@ Kiuwan (2018) OWASP Top 10 2017 – A5 Broken Access Control, url: https://www.k
 
 Security Misconfiguration arises when Security settings are defined, implemented, and maintained. Good security requires a secureconfiguration defined and deployed for the application, web server, database server, and platform . Misconfiguration can include both errors in the installation of security, and the complete failure to install available security controls (Application Security Series, 2018).
 
-### # How can you be attacked ? 
+### How can you be attacked ? 
 
 Attackers will often attempt to exploit unpatched flaws or access default accounts, unused pages, unprotected files and directories, etc to gain unauthorized access or knowledge of the system. 
 
